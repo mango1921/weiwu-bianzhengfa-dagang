@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mango1921.github.io/weiwu-bianzhengfa-dagang/sitemap.xml
