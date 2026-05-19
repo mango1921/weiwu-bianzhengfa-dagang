@@ -20,7 +20,7 @@
 文件名：`lida-weiwu-bianzhengfa-dagang-2026.pdf`
 
 备用入口：
-- [GitHub Releases v1.0](../../releases/latest)（带签名校验和发布说明）
+- [GitHub Releases v1.0](../../releases/latest)
 - [Internet Archive 镜像](https://archive.org/details/2026_20260518_20260518)
 
 ---
